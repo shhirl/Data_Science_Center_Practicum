@@ -6,7 +6,7 @@ My goal is to revise the model to manage various numbers of tests and levels of 
 
 ## References
 <a id="1">[1]</a> 
-M{\"u}ller, Markus and Derlet, Peter M. and Mudry, Christopher and Aeppli, Gabriel (2020).    
+Müller, Markus and Derlet, Peter M. and Mudry, Christopher and Aeppli, Gabriel (2020).    
 Using random testing in a feedback-control loop to manage a safe exit from the COVID-19 lockdown.   
 doi = 10.1101/2020.04.09.20059360.   
 URL = https://www.medrxiv.org/content/early/2020/04/20/2020.04.09.20059360.    
